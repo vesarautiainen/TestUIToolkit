@@ -1,6 +1,6 @@
 [submodule "Toolkit-Buttons"]
 	path = Toolkit-Buttons
 	url = https://github.com/vesarautiainen/Toolkit-Buttons
-[submodule "Toolkit-Dialogs"]
+[submodule "Toolkit-Dialogs"] 
 	path = Toolkit-Dialogs
 	url = https://github.com/vesarautiainen/Toolkit-Dialogs
